@@ -49,6 +49,10 @@ section{
     margin-left: 3%;
     padding-top:5%;
 }
+.my-work:hover{
+    scroll-padding-left: 5;
+}
+
 .client-area{
     background-image: url(images/footer-bg.png);
     background-size: cover;
